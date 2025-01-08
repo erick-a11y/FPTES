@@ -1,0 +1,11 @@
+print("ingresa tu edad")
+edad=int(input())
+
+if 0 < 12:
+    print("el valor es $500")
+if 13 < 18:
+    print("el valor es $1000")
+if  19 > 64:
+    print("el valor es $2000")
+if 65 > 65:
+    print("el valor es $700")
